@@ -1,0 +1,2 @@
+# histogram_wave_similarity
+画像をヒストグラムの波形データにして類似度を測る
